@@ -7,6 +7,7 @@ It returns 'no answers' whenever a word has no lexicographical greater word.
 import main
 main.rearrangeWord("baca") # returns "bcaa"
 main.rearrangeWord("pp") # returns "no answers"
+```
 
 ## Project status
 Project development has stopped completely
